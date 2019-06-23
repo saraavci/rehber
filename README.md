@@ -1,14 +1,14 @@
-# rehber
+### rehber
 Rehber Arayüzü. Swing kütüphanesi kullanılarak kişilerin kaydedildiği, silindiği, arandığı ve güncellendiği bir GUI'dir.
 
-Kişi Ekle
+#Kişi Ekle
 ![](images/kisi_ekle.PNG)
 
-Kişi Sil
+#Kişi Sil
 ![](images/kisi_sil.PNG)
 
-Numara Güncelle
+#Numara Güncelle
 ![](images/num_getir.PNG)
 
-Numara Getir
+#Numara Getir
 ![](images/num_guncelle.PNG)
