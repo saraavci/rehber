@@ -1,7 +1,7 @@
 # Rehber
 Rehber Arayüzü. Swing kütüphanesi kullanılarak kişilerin kaydedildiği, silindiği, arandığı ve güncellendiği bir GUI'dir.
 
-###Kişi Ekle
+## Kişi Ekle
 ![](images/kisi_ekle.PNG)
 
 # Kişi Sil
