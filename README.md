@@ -4,7 +4,7 @@ Rehber Arayüzü. Swing kütüphanesi kullanılarak kişilerin kaydedildiği, si
 ## Kişi Ekle
 ![](images/kisi_ekle.PNG)
 
-# Kişi Sil
+### Kişi Sil
 ![](images/kisi_sil.PNG)
 
 # Numara Güncelle
