@@ -8,7 +8,7 @@ Rehber Arayüzü. Swing kütüphanesi kullanılarak kişilerin kaydedildiği, si
 ![](images/kisi_sil.PNG)
 
 ### Numara Güncelle
-![](images/num_getir.PNG)
+![](images/num_guncelle.PNG)
 
 ### Numara Getir
-![](images/num_guncelle.PNG)
+![](images/num_getir.PNG)
